@@ -9,7 +9,7 @@ This repo contains step to step process on how to deploy react app to github pag
 Install "gh-pages" package using the below command.
 
 ```
-npm install gh-pages — save-dev
+npm install gh-pages --save-dev
 ```
 
 ### Add homepage property to package.json file
